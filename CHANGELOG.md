@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/rettpeel/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-14)
+
+
+### Features
+
+* version artifact ([99b8d38](https://github.com/rettpeel/greetings-ci/commit/99b8d386cd2a8aa697536ff92bad9ff62438739b))
+
+
+
 # [0.2.0](https://github.com/rettpeel/greetings-ci/compare/v0.1.1...v0.2.0) (2024-02-14)
 
 
