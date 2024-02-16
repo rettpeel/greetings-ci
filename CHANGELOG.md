@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/rettpeel/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-16)
+
+
+### Features
+
+* add testing to pipeline ([6a59079](https://github.com/rettpeel/greetings-ci/commit/6a590799cc56ba5ed8f8c438b273690b015d558f))
+
+
+
 # [0.3.0](https://github.com/rettpeel/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-14)
 
 
